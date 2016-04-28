@@ -1,0 +1,46 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: "geneva",sans-serif;
+}
+#container {
+	margin: 10px auto;
+	width: 800px;
+	background-color: lightcyan;
+	padding: 30px;
+}
+	.errors {
+		color: red;
+		font-weight: bold;
+		text-decoration: underline;
+		text-align: center;
+	}
+		h2 {
+		color: green;
+		font-style: italic;
+		text-decoration: none;
+		}
+	form {
+		width: 400px;
+		margin: 20px auto;
+	}
+
+		fieldset {
+			padding: 20px;
+		}
+			p, input {
+
+			}
+			.button {
+				background-color: lightblue;
+				padding: 5px;
+				display: block;
+				margin-top: 10px;
+			}
+header {
+
+}
+	.logout {
+		margin-left: 20px;
+		float: right;
+	}
